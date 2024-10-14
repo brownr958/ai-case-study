@@ -26,7 +26,7 @@ OceanMind is a nonprofit organization founded by Nick Wise in 2014. Initially, t
 OceanMind operates as a nonprofit organization and is supported by partnerships and grants. One of its major supporters is Microsoft, through its AI for Earth program, which helped OceanMind transition to cloud-based real-time data processing. Their funding comes from collaborations with governments, NGOs, and international organizations that focus on ocean conservation.
 
 **Sources**:  
-[Microsoft AI Blog](https://blogs.microsoft.com/on-the-issues/2019/06/06/ocean-mind-illegal-fishing/)
+[Microsoft AI Blog: Ocean Mind Illegal Fishing](https://blogs.microsoft.com/on-the-issues/2019/06/06/ocean-mind-illegal-fishing/)
 
 ## Business Activities
 
@@ -35,12 +35,12 @@ OceanMind's primary mission is to combat illegal fishing, which depletes fish po
 OceanMind's core customers include governments, international organizations, NGOs, and seafood companies responsible for enforcing marine regulations and ensuring sustainable fishing practices. They also collaborate with retailers like Sainsbury's, helping to ensure sustainable sourcing for seafood products. The global seafood market is valued at over $120 billion annually, and OceanMind plays a crucial role in protecting the livelihood of over 3 billion people who rely on seafood as their primary protein source.
 
 > “We help retailers such as Sainsbury’s verify that the fish they source is sustainable and legally caught, ensuring that supply chains are protected.”  
-> — [Microsoft AI Blog](https://blogs.microsoft.com/conexiones/2019/06/07/how-ai-and-satellites-are-used-to-combat-illegal-fishing/)
+> — [Microsoft AI Blog: How AI and Satellites Are Used to Combat Illegal Fishing](https://blogs.microsoft.com/conexiones/2019/06/07/how-ai-and-satellites-are-used-to-combat-illegal-fishing/)
 
 OceanMind stands out from competitors through its unique blend of AI-powered satellite data to monitor vast oceanic regions in real-time. Their technology can track and analyze vessel movements, detect illegal fishing behaviors, and even identify dark vessels that turn off their tracking devices. This system allows for targeted enforcement, making the process more efficient and cost-effective than many competitors. Additionally, OceanMind offers insights on labor violations and human rights issues aboard fishing vessels, a distinctive extension of their technology.
 
 **Sources**:  
-[Microsoft AI Blog](https://blogs.microsoft.com/conexiones/2019/06/07/how-ai-and-satellites-are-used-to-combat-illegal-fishing/)
+[Microsoft AI Blog: How AI and Satellites Are Used to Combat Illegal Fishing](https://blogs.microsoft.com/conexiones/2019/06/07/how-ai-and-satellites-are-used-to-combat-illegal-fishing/)
 
 ## Landscape
 
